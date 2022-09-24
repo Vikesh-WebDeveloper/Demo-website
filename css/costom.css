@@ -1,0 +1,96 @@
+.header { background-color: black;padding: 3px; }
+.header .left-icon{ display: flex; color: white;}
+.header .phone{ width: 40%;}
+.header .row{ justify-content: space-between;  display: flex; align-items: center;}
+
+
+.header .right-icon{text-align: end; }
+.header .right-icon a i{padding: 4px; } 
+.header .right-icon a{ text-decoration: none; color:#ffffffd1; padding:0px 10px;}
+/* =============================================== */
+
+.navbar{ background-color: #014073;}
+.navbar h2 span{ color: #ff9d34;}
+.navbar h2{ color: white; font-weight: 800; font-family: 'Archivo Black', sans-serif; padding: 5px 5px;}
+.navbar .navbar-nav .nav-item .nav-link{ padding: 0px 13px; color: white; font-size: 17px; font-weight: 700;}
+.navbar .navbar-nav .nav-item:first-child .nav-link{ color: #ff9d34;}
+.navbar .navbar-nav .nav-item .nav-link:hover{ color: #ff9d34;}
+/* =================================================================================== */
+
+/* ======================homepage====================== */
+.slider img{ width: 100%;}
+.slider  .col-lg-6 { position: absolute; top:30%;  }
+.slider .text-box .text h2{ color: #014073; font-size: 45px; font-weight: 900; font-family: 'Archivo Black', sans-serif;}
+.slider .text-box .text2{  font-weight: 600; font-size: 20px; padding-top: 10px;}
+.slider .text-box .btn1{border: none ; outline: 0; background-color:#ff9d34; color: white; border-radius: 20px; padding: 7px 25px; font-size: 16px; font-weight: 500;  margin-top: 20px;}
+
+/* ========================================================== */
+
+.our-service{ margin-top: 80px;}
+.our-service .our-text{ text-align: center; margin-bottom: 80px;}
+.our-service .our-text .text{  font-size: 40px; color: #014073; font-weight: 700;}
+.our-service .our-text .text2{ font-size: 22px; color:#6c757d; }
+.our-service .card{ text-align: center;}
+.our-service .card img{ width: 120px; position: relative; left:120px; margin-top: 20px; }
+.our-service .card-body .card-text{  font-weight: 500; font-size: 22px;}
+.our-service .card-body .card-text2{ color: #6c757d; font-size: 17px; font-weight: 400; margin-top: 20px;}
+.our-service .card-body .btn2{ border: none; outline: 0;  color: white; background-color: #ff9d34; padding: 7px 20px; border-radius: 20px; margin-top: 15px;}
+/* ======================================================== */
+
+.get-sol{ margin-top: 60px; text-align: center;}
+.get-sol .get-text1{ margin-top: 70px; font-size: 40px; font-weight: 800; font-family: 'Archivo Black', sans-serif; color: #014073;}
+.get-sol .get-text2{ margin-top: 30px; font-size: 20px; color: #6c757d; font-weight: 500;}
+.get-sol .btn3{ border: none; outline: 0; background-color: #ff9d34; color: white; padding: 7px 20px; border-radius: 20px; margin: 30px 0px ;}
+/* ========================================================================================home-page-end===================== */
+
+/* ===============aboutus page========================= */
+.about-us{ text-align: center;}
+.about-us .text h2{ padding-top:  50px; color: #014073; font-size: 40px; font-weight: 800; font-family:'Archivo Black', sans-serif ;}
+.about-us .text2{ margin-top: 20px; padding-bottom: 70px;}
+ 
+/* ================================================================= */
+.intro{margin-top: 80px;}
+.intro .img-box img{ width: 400px; margin-top: 80px;}
+.intro .left-box .text { color: #ff9d34; font-size: 20px; font-weight: 600; }
+.intro .left-box .text2{ font-size: 35px ; font-weight: 700; color: #014073;font-family: 'Archivo Black', sans-serif ; margin-top: 10px;}
+.intro .left-box .text3{ color: #6c757d; font-size: 20px; font-weight: 400; font-family: 'Archivo Black', sans-serif ;   margin-top: 20px;}
+/* ========================================================================================= */
+.our-team{ margin-top: 70px;}
+.our-team .text{ text-align: center;}
+.our-team .text .our-text h2{ padding-top: 90px; color:#014073; font-size: 40px; font-weight: 800; font-family: 'Archivo Black', sans-serif ;  }
+.our-team .text .our-text2{ padding-top: 10px; font-size: 20px; font-size:x-large;}
+.our-team .card1 img{ width: 100%;}
+.our-team .card1{ margin-top: 40px; text-align: center;}
+.our-team .card1 .card-body .name{ font-size:20px;font-weight: 500; font-family:'Archivo Black', sans-serif ; ;}
+.our-team .card1 .card-body .post{ color: #ff9d34; font-size: small;}
+/* ==================================contact-us-page================================================================= */
+.contact-us{ text-align: center; padding: 30px;}
+.contact-us h2{ color: #014073; font-size: 50px; font-weight: 700; margin-top: 20px;}
+.contact-us p{  font-size: 17px; letter-spacing: 1px; margin-top: 10px; padding-bottom: 30px;}
+#info{ text-align: center; margin-top: 80px;}
+#info .info-text{ color: #6c757d; font-size: 18px;}
+#info .icon i{ background-color: #ebebeb; height:  100px ; width: 100px ; line-height: 100px; color: #ff9d34; font-size: 45px; border-radius: 100%; margin-top: 30px; }
+#info .name{ font-size: 20px; font-weight: 700; margin-top: 20px;}
+#info .add{ margin-top: 20px; font-size: 18px;}
+.lets-know{  margin-top: 150px;}
+.lets-know .let-text{ text-align: center;}
+.lets-know .let-text .text{  color: #014073; font-size: 35px; font-family: 'Archivo Black', sans-serif; font-weight: 800;}
+.lets-know .let-text .text2{ color: #6c757d; margin-top: 20px;  font-size: 17px;}
+.lets-know .left-box, .right-box{ margin-top: 70px;}
+.lets-know .right-box .name ,.mail{ width: 100%; height: 50px; margin: 10px 0px; padding-left: 10px; outline: 0;}
+.lets-know .right-box input::placeholder{ font-size: 20px;}
+.lets-know .right-box .msg{  width: 100%; padding-bottom: 240px; padding-top: 10px; outline: 0;}
+.lets-know .btn4{  border: none; border-radius: 30px; background-color: #ff9d34; color: white; margin-top: 40px;margin-left: 40%; padding: 15px 25px; font-size: 20px; outline: 0;}
+/* =============================================================================================footer================= */
+.footer{ background-color: #014073; color: white; padding: 40px;}
+.footer .head{ font-size: 20px; font-weight: 600;}
+.footer .loct{ margin-top: 20px;}
+.footer .num{padding: 13px 0px ;}
+.footer ul{ list-style:  none; padding: 0 ; margin-top: 20px; }
+.footer ul li{ padding: 5px 0px;}
+.footer ul li a{ text-decoration: none ; color: white;}
+.footer .ul{ display: flex;margin-top: 20px;}
+.footer .ul li{ list-style: none; }
+.footer .ul li a{ padding: 0px 10px; color: white;}
+.footer ul li:hover a{ color: #ff9d34;}
+.footer .ul li:hover a{ color: #ff9d34;}
